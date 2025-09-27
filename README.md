@@ -1,6 +1,6 @@
 # Rock Paper Scissors 🎮✊✋✌️
 
-A simple **Rock Paper Scissors** game made with Unity.\
+A simple **Rock Paper Scissors** game made with Unity.
 The player picks Rock, Paper, or Scissors, then a short countdown
 starts. After 3 seconds, the computer's choice is revealed and the
 winner is decided.
@@ -8,14 +8,14 @@ winner is decided.
 ## 🎯 Features
 
 -   Player can select **Rock, Paper, or Scissors** via the UI.
--   **3-second countdown** before the computer's choice appears.
+-   3-second countdown** before the computer's choice appears.
 -   Icons are dynamically activated/deactivated based on the result.
 -   Result is displayed on screen and logged in the console.
 -   Press **R** to restart the game.
 
 ## 🛠️ Tech Stack
 
--   **Unity (C#)
+-   Unity (C#)
 -   Unity UI (Canvas, TextMeshPro, Buttons)
 
 ## 🚀 How It Works
