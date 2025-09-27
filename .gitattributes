@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Sadece C# dosyalarını dikkate al
+* linguist-detectable=false
+*.cs linguist-detectable=true
